@@ -2,8 +2,9 @@
 
 Welcome to my Capstone & Professional Practices Portfolio
 
-This repository showcases my learning journey, weekly reflections, 
-project work, and professional development throughout the course.
+This repository represents my personal learning experience, including 
+weekly reflections, project updates, and my overall growth as a 
+Computer Science student throughout this course.
 
 ## Details
 
