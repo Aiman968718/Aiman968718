@@ -1,5 +1,5 @@
 
-# Aiman968718
+# AimanRiaz
 
 **Aiman Riaz – GitHub Profile  About Me**
 
