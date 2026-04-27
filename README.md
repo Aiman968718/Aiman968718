@@ -4,7 +4,10 @@ Welcome to my Capstone & Professional Practices Portfolio
 
 # Aiman Riaz
 ### Computer Science Student
-
+![Student](https://img.shields.io/badge/Student-Aiman%20Riaz-333333?style=flat-square)
+![Semester](https://img.shields.io/badge/Semester-IV--B-333333?style=flat-square)
+![Course](https://img.shields.io/badge/Course-Capstone%20%26%20Professional%20Practices-333333?style=flat-square)
+![Instructor](https://img.shields.io/badge/Instructor-Ma'am%20Aroosa%20Mubeen-333333?style=flat-square)
 ---
 
 ## About Me
